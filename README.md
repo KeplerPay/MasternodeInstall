@@ -16,7 +16,7 @@ Your coins will be safe if the masternode server is hacked.
 	* [2.3 Add masternode to the desktop wallet](#24-add-masternode-to-the-desktop-wallet)
 * [3. FAQ](#3-faq)
 
-## 1. Desktop Wallet Preparation <a href="https://www.youtube.com/watch?v=HAF1NPFsb8Q" target="_blank"><img src="https://i.imgur.com/SY3eO38.png"></a>
+## 1. Desktop Wallet Preparation <a href="https://www.youtube.com/watch?v=" target="_blank"><img src="https://i.imgur.com/"></a>
 
 ### 1.1 Desktop Wallet Setup
 1. Download the wallet: [kepler.cash](https://kepler.cash/)
