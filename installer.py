@@ -115,7 +115,7 @@ def update_system():
     print_info("Updating the system...")
     run_command("apt-get update")
     run_command("apt-get upgrade -y")
-    run_command("apt-get dist-upgrade -y")
+    #run_command("apt-get dist-upgrade -y")
 
 def check_root():
     print_info("Check root privileges")
